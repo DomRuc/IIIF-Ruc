@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://DomRuc.github.io/IIIF Ruc/manifests/manifestmazarin.json",
     "label" : "[Biblia latina]. Première partie"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://DomRuc.github.io/IIIF Ruc/manifests/HarvardIIF.json",
+    "label" : "Harvard University, Harvard College Library Harvard-Yenching Library, HYLC_T_2380_9027_v1"
   } ]
 }
