@@ -1,0 +1,13 @@
+{
+  "id" : "https://DomRuc.github.io/IIIF Ruc/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in DomRuc/IIIF-Ruc project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://DomRuc.github.io/IIIF Ruc/manifests/manifestGutenberg.json",
+    "label" : "Biblia. 1: Genesis-Psalmi"
+  } ]
+}
