@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://DomRuc.github.io/IIIF Ruc/manifests/manifestGutenberg.json",
     "label" : "Biblia. 1: Genesis-Psalmi"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://DomRuc.github.io/IIIF Ruc/manifests/manifestmazarin.json",
+    "label" : "[Biblia latina]. Première partie"
   } ]
 }
